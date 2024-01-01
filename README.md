@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @ginto
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m @ginto g thomas
 
-<!---
-ginnto/ginnto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I’m interested in coding and graphic designing.
+
+🌱 I’m currently working as a Python trainer cum developer.
+
+💼 Exploring the intersections of coding and design.
+
+🚀 Passionate about learning and sharing knowledge.
+
+🔗 Connect with me and explore my projects below! 👇
+
+https://github.com/ginnto
